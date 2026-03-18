@@ -124,7 +124,7 @@ As described in the automation document:
 - Alert system (Email / Slack)
 
 📌 Full automation workflow available in:
-- `Automation Plan.pdf`
+- [Automation Plan](./Automation Plan.pdf)
 
 ---
 
