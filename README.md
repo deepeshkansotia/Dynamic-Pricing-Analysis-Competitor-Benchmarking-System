@@ -45,7 +45,7 @@ As shown in the system design (Automation Plan), the pipeline follows:
 
 📌 The workflow diagram (see Automation Plan) highlights decision logic such as:
 - If enough competitors exist → Generate insights
-- Else → Mark as low confidence and skip/review :contentReference[oaicite:0]{index=0}
+- Else → Mark as low confidence and skip/review
 
 ---
 
