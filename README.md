@@ -93,7 +93,10 @@ The dashboard provides:
 - % deviation visualization
 - Route-level insights
 - Outlier detection
-- Scatter plots for pricing strategy
+
+### 📸 Dashboard Preview
+
+![Dashboard Screenshot](Screenshot.png)
 
 ---
 
