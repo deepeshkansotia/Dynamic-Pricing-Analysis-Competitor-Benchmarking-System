@@ -123,8 +123,8 @@ As described in the automation document:
 - Dashboard refresh
 - Alert system (Email / Slack)
 
-📌 Full automation workflow available in:
-- [Automation Plan](./Automation Plan.pdf)
+📌 Full automation workflow:
+👉 [View Automation Plan (PDF)](./Automation%20Plan.pdf)
 
 ---
 
